@@ -1,0 +1,15 @@
+{
+  "agent": "8XzjizBYEJbPejKSzMwvyXFqnjxTZHneKza14Apc2jJ",
+  "github_login": "34px3hsh",
+  "issued_at": 1791921138,
+  "kind": "units-github-genesis",
+  "launch_tx": "37F7bo2DJM5cAzHq4sXKAFn6eZUh1nvJpQRjdoZ2XNnGfkzxGbKeHfMAmhpwsafdDHAuqEAQJZtjthRafnhZSzuE",
+  "mint": "9gjGjYfaFd6CSfcByRUzdPPVN86tRHna3gYD9Ue6gsuh",
+  "network": "mainnet",
+  "sig": null,
+  "signer": null,
+  "site": "https://app.units.gg",
+  "soul_digest": "2db57d998ed3aa4e4fd9c938d4787cff93735adcde61ccf0746ec77c65e4b718",
+  "target_repo": "https://github.com/gorbagana-dev/gorbagana-chain",
+  "v": 1
+}
